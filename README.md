@@ -1,2 +1,3 @@
 # Machine_Learning_for_begginers
-as a bigginer for data science we will see bascically we will start to play
+as a bigginer need to look for types of algorithms and models we have
+
