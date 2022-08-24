@@ -9,3 +9,5 @@ Simple linear regression is used to estimate the relationship between two quanti
 
 First! How strong the relationship is between two variables (e.g. the relationship between rainfall and soil erosion).
 Second ! The value of the dependent variable at a certain value of the independent variable (e.g. the amount of soil erosion at a certain level of rainfall).
+
+If you have more than one independent variable, use multiple linear regression instead( we will study this further).
