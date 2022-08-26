@@ -24,3 +24,11 @@ The cost function helps us to figure out the best possible values for a_0 and a_
 
 
 We choose the above function to minimize. The difference between the predicted values and ground truth measures the error difference. We square the error difference and sum over all data points and divide that value by the total number of data points. This provides the average squared error over all the data points. Therefore, this cost function is also known as the Mean Squared Error(MSE) function. Now, using this MSE function we are going to change the values of a_0 and a_1 such that the MSE value settles at the minima.
+
+
+#CODING
+
+
+
+
+
