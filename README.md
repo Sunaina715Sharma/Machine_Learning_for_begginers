@@ -30,5 +30,7 @@ We choose the above function to minimize. The difference between the predicted v
 I HAVE ATTECHED A FILE NAMED "SIMPLE_LINAR_REGRESSION
 
 
+LETS START WITH mULTIPLE LINEAR REGRESSION
+
 
 
