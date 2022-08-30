@@ -31,6 +31,6 @@ I HAVE ATTECHED A FILE NAMED "SIMPLE_LINAR_REGRESSION
 
 
 LETS START WITH mULTIPLE LINEAR REGRESSION
-
+Multiple Linear Regression is an extension of Simple Linear regression as it takes more than one predictor variable to predict the response variable. We can define it as
 
 
