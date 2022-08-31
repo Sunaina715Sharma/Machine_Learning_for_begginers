@@ -44,3 +44,9 @@ Y= Output/Response variable
 b0, b1, b2, b3 , bn....= Coefficients of the model.
 
 x1, x2, x3, x4,...= Various Independent/feature variable
+
+#CODING
+I HAVE ATTECHED A FILE NAMED "_LINAR_REGRESSION
+
+
+
