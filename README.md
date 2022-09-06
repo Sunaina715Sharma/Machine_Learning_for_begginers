@@ -5,10 +5,6 @@ Regression models describe the relationship between variables by fitting a line 
 Simple linear regression is used to estimate the relationship between two quantitative variables. You can use simple linear regression when you want to know
 
 
-First! How strong the relationship is between two variables (e.g. the relationship between rainfall and soil erosion).
-Second ! The value of the dependent variable at a certain value of the independent variable (e.g. the amount of soil erosion at a certain level of rainfall).
-
-If you have more than one independent variable, use multiple linear regression instead( we will study this further).
 
 Simple linear regression is a type of regression analysis where the number of independent variables is one and there is a linear relationship between the independent(x) and dependent(y) variable. The red line in the above graph is referred to as the best fit straight line. Based on the given data points, we try to plot a line that models the points the best. The line can be modelled based on the linear equation shown below.
 
