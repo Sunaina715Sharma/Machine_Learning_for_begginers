@@ -21,14 +21,6 @@ Multiple Linear Regression is an extension of Simple Linear regression as it tak
 
 In Multiple Linear Regression, the target variable(Y) is a linear combination of multiple predictor variables x1, x2, x3, ...,xn. Since it is an enhancement of Simple Linear Regression, so the same is applied for the multiple linear regression equation, the equation becomes:
 
-Y= b<sub>0</sub>+b<sub>1</sub>x<sub>1</sub>+ b<sub>2</sub>x<sub>2</sub>+ b<sub>3</sub>x<sub>3</sub>+...... bnxn 
-Where,
-
-Y= Output/Response variable
-
-b0, b1, b2, b3 , bn....= Coefficients of the model.
-
-x1, x2, x3, x4,...= Various Independent/feature variable
 
 
 
