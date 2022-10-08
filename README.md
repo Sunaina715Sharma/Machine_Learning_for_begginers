@@ -13,7 +13,3 @@ The cost function helps us to figure out the best possible values for a_0 and a_
 
 #CODING
 I HAVE ATTECHED A FILE NAMED "SIMPLE_LINAR_REGRESSION
-
-
-LETS START WITH mULTIPLE LINEAR REGRESSION
-Multiple Linear Regression is an extension of Simple Linear regression as it takes more than one predictor variable to predict the response variable. We can define it as """Multiple Linear Regression is one of the important regression algorithms which models the linear relationship between a single dependent continuous variable and more than one independent variable"""
