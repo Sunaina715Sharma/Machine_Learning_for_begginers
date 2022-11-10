@@ -1,10 +1,7 @@
 @
 html
 
-jsksj
-ssk
-
-java
+js/java
 
 @sus/
 
