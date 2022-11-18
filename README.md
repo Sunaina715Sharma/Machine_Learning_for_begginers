@@ -10,3 +10,5 @@ cocatenate
 i = i ? i < 0 ? Math.max(0, len + i) : i : 0;
 
 data1, item2, elem5
+
+mon/g/o|DB
